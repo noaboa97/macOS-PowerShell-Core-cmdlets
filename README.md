@@ -1,4 +1,4 @@
-# macOS-PowerShell-Core cmdlets
+# macOS PowerShell Core cmdlets
 PowerShell Scripts vor macOS
 ## Get-Airport
 Retrieves the wireless connection of your Mac with the CLI Tool Airport.<br>
